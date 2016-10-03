@@ -3,7 +3,7 @@
 var jugadaUser;
 var jugadaCompu;
 
-var jugadaUser = prompt("¿Piedra, papel o tijera?");
+var jugadaUser = prompt("¿piedra, papel o tijera?");
 console.log(jugadaUser);
 
 /*Busco un número random para la selección de la opción de la computadora*/
